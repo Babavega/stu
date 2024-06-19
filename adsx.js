@@ -1,4 +1,9 @@
-let ad1 = "<p>This is an advertisement 1: Your Ad Content Here</p>";
+let ad1 = ` <!-- /22841960233/Adx_Alright -->
+<div id='div-gpt-ad-1718800991479-0' style='min-width: 300px; min-height: 250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1718800991479-0'); });
+  </script>
+</div>`;
 
 let ad2 = `
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6603511358114879"
