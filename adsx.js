@@ -6,8 +6,6 @@ let ad1 = ` <!-- /22841960233/Adx_Alright -->
 </div>`;
 
 let ad2 = `
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6603511358114879"
-     crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="fluid"
