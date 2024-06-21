@@ -1,7 +1,7 @@
-let ad1 = ` <!-- /22841960233/Adx_Alright -->
-<div id='div-gpt-ad-1718800991479-0' style='min-width: 300px; min-height: 250px;'>
+let ad1 = ` <!-- /22841960233/Pharmalite.in/Vid-mid -->
+<div id='div-gpt-ad-1718940186371-0' style='min-width: 300px; min-height: 50px;'>
   <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1718800991479-0'); });
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1718940186371-0'); });
   </script>
 </div>`;
 
