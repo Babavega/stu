@@ -34,7 +34,7 @@ let ads = [
     'ad code10',
 ];
 
-let vidad = 'https://pubads.g.doubleclick.net/gampad/live/ads?iu=/22841960233/Video_Ad_Unit_Player&description_url=https%3A%2F%2Fpharmalite.in&tfcd=0&npa=0&sz=1x1&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=';
+let vidad = 'https://www.videosprofitnetwork.com/watch.xml?key=739650c9669529b6e9c087501abadcf';
 
 let subNo = "12.5k"
 document.getElementById("subscriber-count").innerText = subNo ;
