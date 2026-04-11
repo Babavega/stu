@@ -1,23 +1,15 @@
 let ad1 = `ad code1`;
 let ads = [
-    `<script>
-(function(gqez){
-var d = document,
-    s = d.createElement('script'),
-    l = d.scripts[d.scripts.length - 1];
-s.settings = gqez || {};
-s.src = "\/\/webbedtrash.com\/bfX\/V.svdKGZlW0sYKWrcp\/Ve\/mc9BubZtU\/lZkbPGTmYm5ANIDUkp3sOHTvcPtlNGjCk-0SOWTlgZwGMaQu";
-s.async = true;
-s.referrerPolicy = 'no-referrer-when-downgrade';
-l.parentNode.insertBefore(s, l);
-})({})
-</script>`,
+    `ads2`,
     `<ins class="adsbygoogle"
      style="display:block"
      data-ad-format="fluid"
      data-ad-layout-key="-gc+3r+68-9q-29"
      data-ad-client="ca-pub-6603511358114879"
-     data-ad-slot="5495472083"></ins>`,
+     data-ad-slot="5495472083"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>`,
     `<ins class="adsbygoogle"
      style="display:block"
      data-ad-format="fluid"
@@ -40,7 +32,7 @@ l.parentNode.insertBefore(s, l);
     'ad code10',
 ];
 
-let vidad = ''https://candid-twist.com/d_mOF.zadJGONVvxZdG/Uf/GeZm/9RuHZ/UTlYksPQTsYR5pM/TdMgxoM/ziM/tYNWjKkux/MpzOENzrNlyuZ/sZaJWe1_pfdXDz0sxs';
+let vidad = 'https://candid-twist.com/d_mOF.zadJGONVvxZdG/Uf/GeZm/9RuHZ/UTlYksPQTsYR5pM/TdMgxoM/ziM/tYNWjKkux/MpzOENzrNlyuZ/sZaJWe1_pfdXDz0sxs';
 
 let subNo = "12.5k"
 document.getElementById("subscriber-count").innerText = subNo ;
